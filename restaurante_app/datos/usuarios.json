@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion": "1804567890",
+        "nombre": "Dayana Lema",
+        "correo": "dayana.lema@uea.edu.ec",
+        "usuario": "dlema",
+        "contrasena": "verde2026"
+    },
+    {
+        "identificacion": "1800000003",
+        "nombre": "Administrador",
+        "correo": "admin@restaurante.com",
+        "usuario": "admin",
+        "contrasena": "admin654"
+    }
+]

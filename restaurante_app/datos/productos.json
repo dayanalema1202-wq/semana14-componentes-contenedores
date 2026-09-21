@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "DY1",
+        "nombre": "Quinoa con vegetales",
+        "precio": 4.0,
+        "categoria": "PRINCIPAL",
+        "es_vegetariano": true,
+        "stock": 7
+    },
+    {
+        "codigo": "DY2",
+        "nombre": "Lomo saltado",
+        "precio": 5.5,
+        "categoria": "PRINCIPAL",
+        "es_vegetariano": false,
+        "stock": 6
+    },
+    {
+        "codigo": "DY3",
+        "nombre": "Sopa de verduras",
+        "precio": 2.5,
+        "categoria": "SOPA",
+        "es_vegetariano": true,
+        "stock": 10
+    },
+    {
+        "codigo": "DY4",
+        "nombre": "Jugo de naranja",
+        "precio": 1.5,
+        "categoria": "JUGO",
+        "es_vegetariano": true,
+        "stock": 12
+    }
+]
